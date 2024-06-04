@@ -5,7 +5,7 @@ export const Wrapper = styled.div`
   flex-direction: column;
   gap: 10px;
 
-  max-width: 1024px;
+  max-width: 768px;
   margin: 0 auto;
 
   padding: ${({ theme }) => theme.spacing(1)};
